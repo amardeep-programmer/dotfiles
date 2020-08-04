@@ -1,0 +1,42 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 6018
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 8897
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 2291
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 7779
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 4684
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 25824
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+/usr/bin/bashtop: line 4806: ${pycoproc[1]}: ambiguous redirect
+ 
+New instance of bashtop version: 0.9.25 Pid: 4451
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 26481
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+ 
+New instance of bashtop version: 0.9.25 Pid: 15068
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'
+/usr/bin/bashtop: line 4806: ${pycoproc[1]}: ambiguous redirect
+ 
+New instance of bashtop version: 0.9.25 Pid: 10376
+PSUTIL ERROR! Command: get_disks(exclude='squashfs')
+not sure how to interpret line '   7       0 loop0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0\n'

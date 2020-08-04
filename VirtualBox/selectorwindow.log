@@ -1,0 +1,19 @@
+00:00:01.201258 VirtualBox GUI VM Selector Window 6.1.12 r139181 linux.amd64 (Jul 11 2020 09:03:44) release log
+00:00:01.201260 Log opened 2020-07-26T08:22:37.149094000Z
+00:00:01.201260 Build Type: release
+00:00:01.201264 OS Product: Linux
+00:00:01.201264 OS Release: 5.3.0-62-generic
+00:00:01.201265 OS Version: #56~18.04.1-Ubuntu SMP Wed Jun 24 16:17:03 UTC 2020
+00:00:01.201287 DMI Product Name: B450M DS3H
+00:00:01.201290 DMI Product Version: Default string
+00:00:01.201297 Firmware type: UEFI
+00:00:01.201607 Secure Boot: Disabled
+00:00:01.201642 Host RAM: 7971MB (7.7GB) total, 6415MB (6.2GB) available
+00:00:01.201645 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.201645 Process ID: 31785
+00:00:01.201646 Package type: LINUX_64BITS_UBUNTU_18_04
+00:00:01.201670 Qt version: 5.9.5
+00:00:01.386251 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.386270 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.507546 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x30 x 1920x990
+00:00:03.510943 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x0 x 1920x1080

@@ -1,0 +1,21 @@
+fs.js:126
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/home/amardeep/vagrant_box/project/target/active.json'
+    at Object.openSync (fs.js:447:3)
+    at Object.func (electron/js2c/asar.js:140:31)
+    at Object.func [as openSync] (electron/js2c/asar.js:140:31)
+    at Object.readFileSync (fs.js:349:35)
+    at Object.fs.readFileSync (electron/js2c/asar.js:542:40)
+    at Object.fs.readFileSync (electron/js2c/asar.js:542:40)
+    at discoverUrl (/home/amardeep/.vscode/extensions/lightbend.vscode-sbt-scala-0.2.4/server/server.js:42:34)
+    at connectSocket (/home/amardeep/.vscode/extensions/lightbend.vscode-sbt-scala-0.2.4/server/server.js:22:13)
+    at Object.<anonymous> (/home/amardeep/.vscode/extensions/lightbend.vscode-sbt-scala-0.2.4/server/server.js:14:1)
+    at Module._compile (internal/modules/cjs/loader.js:925:30) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '/home/amardeep/vagrant_box/project/target/active.json'
+}
+[Info  - 1:54:36 pm] Connection to server got closed. Server will restart.

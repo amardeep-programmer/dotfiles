@@ -1,0 +1,20 @@
+[2020-07-26 13:52:48.191] [sharedprocess] [info] main {"machineId":"9b24a267d86a21ff0564a5e5d0a4d2c599026fc9a3bb13f7b6577db148334e1a","windowId":2}
+[2020-07-26 13:53:26.853] [sharedprocess] [info] Installing extension: scala-lang.scala
+[2020-07-26 13:53:27.508] [sharedprocess] [info] Downloaded extension: scala-lang.scala /home/amardeep/.config/Code/CachedExtensionVSIXs/scala-lang.scala-0.4.2
+[2020-07-26 13:53:27.521] [sharedprocess] [info] Extracted extension to /home/amardeep/.vscode/extensions/.scala-lang.scala-0.4.2: scala-lang.scala
+[2020-07-26 13:53:27.521] [sharedprocess] [info] Renamed to /home/amardeep/.vscode/extensions/scala-lang.scala-0.4.2
+[2020-07-26 13:53:27.521] [sharedprocess] [info] Installation completed. scala-lang.scala
+[2020-07-26 13:53:27.549] [sharedprocess] [info] Extensions installed successfully: scala-lang.scala
+[2020-07-26 13:53:28.197] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-26 13:53:33.632] [sharedprocess] [info] Installing extension: lightbend.vscode-sbt-scala
+[2020-07-26 13:53:35.319] [sharedprocess] [info] Downloaded extension: lightbend.vscode-sbt-scala /home/amardeep/.config/Code/CachedExtensionVSIXs/lightbend.vscode-sbt-scala-0.2.4
+[2020-07-26 13:53:36.167] [sharedprocess] [info] Extracted extension to /home/amardeep/.vscode/extensions/.lightbend.vscode-sbt-scala-0.2.4: lightbend.vscode-sbt-scala
+[2020-07-26 13:53:36.167] [sharedprocess] [info] Renamed to /home/amardeep/.vscode/extensions/lightbend.vscode-sbt-scala-0.2.4
+[2020-07-26 13:53:36.168] [sharedprocess] [info] Installation completed. lightbend.vscode-sbt-scala
+[2020-07-26 13:53:36.217] [sharedprocess] [info] Extensions installed successfully: lightbend.vscode-sbt-scala
+[2020-07-26 13:53:39.545] [sharedprocess] [info] Installing extension: scalameta.metals
+[2020-07-26 13:53:40.455] [sharedprocess] [info] Downloaded extension: scalameta.metals /home/amardeep/.config/Code/CachedExtensionVSIXs/scalameta.metals-1.9.2
+[2020-07-26 13:53:41.343] [sharedprocess] [info] Extracted extension to /home/amardeep/.vscode/extensions/.scalameta.metals-1.9.2: scalameta.metals
+[2020-07-26 13:53:41.343] [sharedprocess] [info] Renamed to /home/amardeep/.vscode/extensions/scalameta.metals-1.9.2
+[2020-07-26 13:53:41.344] [sharedprocess] [info] Installation completed. scalameta.metals
+[2020-07-26 13:53:41.434] [sharedprocess] [info] Extensions installed successfully: scalameta.metals

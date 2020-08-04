@@ -1,0 +1,44 @@
+[2020-07-26 13:54:37.404] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:34)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:809:34)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:25
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.412] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.appendLine (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:168)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:74
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.457] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:34)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:809:34)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:25
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.463] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.appendLine (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:168)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:74
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.509] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:34)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:809:34)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:25
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.513] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.appendLine (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:168)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:74
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.561] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:34)
+	at m.append (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:809:34)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:25
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-26 13:54:37.563] [renderer1] [error] Channel has been closed: Error: Channel has been closed
+	at m.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:479)
+	at m.appendLine (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:727:168)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:728:74
+[2020-07-26 13:54:37.678] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/amardeep/vagrant_box/Vagrantfile' (Error: File Modified Since) file:///home/amardeep/vagrant_box/Vagrantfile

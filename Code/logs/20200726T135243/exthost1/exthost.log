@@ -1,0 +1,42 @@
+[2020-07-26 13:52:49.588] [exthost] [info] extension host started
+[2020-07-26 13:52:49.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-26 13:52:49.599] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-26 13:52:49.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-26 13:52:49.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-26 13:52:49.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-26 13:52:49.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-26 13:52:49.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-26 13:52:49.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-26 13:52:50.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-26 13:52:50.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-26 13:52:50.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-26 13:52:50.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-26 13:52:50.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-26 13:52:50.185] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-26 13:52:50.218] [exthost] [info] ExtensionService#_doActivateExtension bbenoist.vagrant {"startup":true,"extensionId":{"value":"bbenoist.vagrant","_lower":"bbenoist.vagrant"},"activationEvent":"workspaceContains:Vagrantfile"}
+[2020-07-26 13:52:50.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/amardeep/.vscode/extensions/bbenoist.vagrant-0.5.0/out/src/extension
+[2020-07-26 13:52:50.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-26 13:52:50.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-26 13:52:50.804] [exthost] [info] eager extensions activated
+[2020-07-26 13:53:34.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-07-26 13:53:34.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-26 13:53:34.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-07-26 13:53:34.977] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-07-26 13:53:35.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-07-26 13:53:35.023] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-26 13:53:35.086] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-07-26 13:53:35.086] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-07-26 13:53:35.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-07-26 13:53:35.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-07-26 13:53:36.243] [exthost] [info] ExtensionService#_doActivateExtension lightbend.vscode-sbt-scala {"startup":false,"extensionId":{"value":"lightbend.vscode-sbt-scala","_lower":"lightbend.vscode-sbt-scala"},"activationEvent":"workspaceContains:build.sbt"}
+[2020-07-26 13:53:36.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/amardeep/.vscode/extensions/lightbend.vscode-sbt-scala-0.2.4/out/src/extension
+[2020-07-26 13:53:41.539] [exthost] [info] ExtensionService#_doActivateExtension scalameta.metals {"startup":false,"extensionId":{"value":"scalameta.metals","_lower":"scalameta.metals"},"activationEvent":"onLanguage:scala"}
+[2020-07-26 13:53:41.539] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/amardeep/.vscode/extensions/scalameta.metals-1.9.2/out/extension
+[2020-07-26 13:54:15.193] [exthost] [error] Activating extension scalameta.metals failed due to an error:
+[2020-07-26 13:54:15.194] [exthost] [error] Error: Internal error.
+	at handleResponse (/home/amardeep/.vscode/extensions/scalameta.metals-1.9.2/node_modules/vscode-jsonrpc/lib/main.js:449:48)
+	at processMessageQueue (/home/amardeep/.vscode/extensions/scalameta.metals-1.9.2/node_modules/vscode-jsonrpc/lib/main.js:276:17)
+	at Immediate.<anonymous> (/home/amardeep/.vscode/extensions/scalameta.metals-1.9.2/node_modules/vscode-jsonrpc/lib/main.js:260:13)
+	at processImmediate (internal/timers.js:439:21)
+[2020-07-26 13:54:37.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-07-26 13:54:37.689] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
